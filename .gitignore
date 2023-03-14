@@ -49,3 +49,41 @@ po/*~
 # RStudio Connect folder
 rsconnect/
 
+# Large Reproducible files
+# Docs
+*.pdf
+*.html
+
+# Images
+*.png
+*.tif
+*.jpeg
+
+# Data Files
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+*.rds
+*.RData
+
+# Spatial Files
+*.dbf
+*.fix
+*.prj
+*.qix
+*.shp
+*.shx
+*.gpkg
+*.geo
+
+
+
+
+
+
+
