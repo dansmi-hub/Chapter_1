@@ -53,6 +53,10 @@ rsconnect/
 # Docs
 *.pdf
 *.html
+# Except
+!SLM_Article.pdf
+!SLM_Article.qmd
+
 
 # Images
 *.png
