@@ -49,22 +49,6 @@ po/*~
 # RStudio Connect folder
 rsconnect/
 
-# Large Reproducible files
-# Docs
-*.pdf
-*.html
-# Except
-!SLM_Article.pdf
-!SLM_Article.qmd
-!SLM_Article.docx
-!SLM_Article.html
-
-
-# Images
-*.png
-*.tif
-*.jpeg
-
 # Data Files
 *.7z
 *.dmg
@@ -74,7 +58,6 @@ rsconnect/
 *.rar
 *.tar
 *.zip
-*.rds
 *.RData
 
 # Spatial Files
@@ -87,11 +70,5 @@ rsconnect/
 *.gpkg
 *.geo
 
-
-
-
-
-
-
-
+# Quarto
 /.quarto/
